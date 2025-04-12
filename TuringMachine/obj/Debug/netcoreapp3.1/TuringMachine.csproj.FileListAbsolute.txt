@@ -1,0 +1,26 @@
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.exe
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.deps.json
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.runtimeconfig.json
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.dll
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.pdb
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.dll
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.pdb
+C:\Users\ASUS\source\repos\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.genruntimeconfig.cache
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.exe
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.deps.json
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.runtimeconfig.json
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.runtimeconfig.dev.json
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.dll
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.1\TuringMachine.pdb
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.AssemblyInfoInputs.cache
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.AssemblyInfo.cs
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.dll
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.pdb
+D:\bre be git\proje o tamrina\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.1\TuringMachine.genruntimeconfig.cache
